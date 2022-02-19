@@ -6,14 +6,14 @@ A simple Telegram userbot based on Telethon .
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green?&style=flat-square)](https://GitHub.com/Shivam9335/catuserbot/graphs/commit-activity) 
 ![Repo Size](https://img.shields.io/github/repo-size/TgCatUB/catuserbot?&style=flat-square&logo=github)
-[![GitHub license](https://img.shields.io/github/license/TgCatUB/catuserbot?&style=flat-square&logo=github)](https://github.com/Shivam9335/catuserbot/blob/master/LICENSE)
-[![GitHub issues](https://img.shields.io/github/issues/TgCatUB/catuserbot?&style=flat-square&logo=github)](https://github.com/Shivam9335/catuserbot/issues)
-[![PR Open](https://img.shields.io/github/issues-pr/TgCatUB/catuserbot?&style=flat-square&logo=github)](https://github.com/Shivam9335/catuserbot/pulls)
-[![PR Closed](https://img.shields.io/github/issues-pr-closed/TgCatUB/catuserbot?&style=flat-square&logo=github)](https://github.com/Shivam9335/catuserbot/pulls?q=is:closed)
-[![GitHub contributors](https://img.shields.io/github/contributors/TgCatUB/catuserbot?&style=flat-square&logo=github)](https://GitHub.com/Shivam9335/catuserbot/graphs/contributors/)
-[![GitHub commit activity](https://img.shields.io/github/commit-activity/m/TgCatUB/catuserbot?&style=flat-square&logo=github)](https://github.com/Shivam9335/catuserbot/graphs/commit-activity)
-[![GitHub forks](https://img.shields.io/github/forks/TgCatUB/catuserbot?&style=flat-square&logo=github)](https://github.com/Shivam9335/catuserbot/fork)
-[![GitHub stars](https://img.shields.io/github/stars/TgCatUB/catuserbot?&style=flat-square&logo=github)](https://github.com/Shivam9335/catuserbot/stargazers)
+[![GitHub license](https://img.shields.io/github/license/TgCatUB/catuserbot?&style=flat-square&logo=github)](https://github.com//catuserbot/blob/master/LICENSE)
+[![GitHub issues](https://img.shields.io/github/issues/TgCatUB/catuserbot?&style=flat-square&logo=github)](https://github.com//catuserbot/issues)
+[![PR Open](https://img.shields.io/github/issues-pr/TgCatUB/catuserbot?&style=flat-square&logo=github)](https://github.com//catuserbot/pulls)
+[![PR Closed](https://img.shields.io/github/issues-pr-closed/TgCatUB/catuserbot?&style=flat-square&logo=github)](https://github.com//catuserbot/pulls?q=is:closed)
+[![GitHub contributors](https://img.shields.io/github/contributors/TgCatUB/catuserbot?&style=flat-square&logo=github)](https://GitHub.com//catuserbot/graphs/contributors/)
+[![GitHub commit activity](https://img.shields.io/github/commit-activity/m/TgCatUB/catuserbot?&style=flat-square&logo=github)](https://github.com//catuserbot/graphs/commit-activity)
+[![GitHub forks](https://img.shields.io/github/forks/TgCatUB/catuserbot?&style=flat-square&logo=github)](https://github.com//catuserbot/fork)
+[![GitHub stars](https://img.shields.io/github/stars/TgCatUB/catuserbot?&style=flat-square&logo=github)](https://github.com//catuserbot/stargazers)
 
 
 
